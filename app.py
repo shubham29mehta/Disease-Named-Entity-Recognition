@@ -2,7 +2,7 @@ import gradio as gr
 from transformers import pipeline
 
 
-model_checkpoint = "Shubham555/biobert-finetuned-ner"
+model_checkpoint = "shubham555/biobert-finetuned-ner"
 token_classifier = pipeline("token-classification", model=model_checkpoint, aggregation_strategy="simple")
 
 
