@@ -8,7 +8,7 @@ You can get the data from [here](https://huggingface.co/datasets/ncbi_disease).
 
 # Evaluation metrics
 
-Following are the results obtained using finetuned **BioBERT**. Fine tuned **Biobert** achieved 2.5% better F1 score as compared to finetuned **bert (base)**
+Following are the results obtained using **BioBERT** on the data. Fine tuned **Biobert** achieved 2.5% better F1 score as compared to finetuned **bert (base)**
 
 * Precision: 83 %
 * Recall: 89.7 %
