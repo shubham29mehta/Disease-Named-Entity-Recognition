@@ -1,6 +1,6 @@
 # Named entity recognition for disease identification
 
-The goal of this project/repository is to identify **diseases** in a text transformer models. Both bert base and biobert were fintuned on ncbi disease dataset
+The goal of this project/repository is to identify **diseases** in a text transformer models. Both **BERT base** and **BioBERT** were fintuned on ncbi disease dataset
 
 # Data Source
 
